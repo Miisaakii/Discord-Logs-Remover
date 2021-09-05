@@ -1,0 +1,24 @@
+C:\Users\rstei\source\repos\Remove Logs Discord\Remove Logs Discord\bin\Debug\Remove Logs Discord.exe.config
+C:\Users\rstei\source\repos\Remove Logs Discord\Remove Logs Discord\bin\Debug\Remove Logs Discord.exe
+C:\Users\rstei\source\repos\Remove Logs Discord\Remove Logs Discord\bin\Debug\Remove Logs Discord.pdb
+C:\Users\rstei\source\repos\Remove Logs Discord\Remove Logs Discord\bin\Debug\Guna.UI.dll
+C:\Users\rstei\source\repos\Remove Logs Discord\Remove Logs Discord\bin\Debug\Guna.UI2.dll
+C:\Users\rstei\source\repos\Remove Logs Discord\Remove Logs Discord\obj\Debug\Remove Logs Discord.csproj.AssemblyReference.cache
+C:\Users\rstei\source\repos\Remove Logs Discord\Remove Logs Discord\obj\Debug\Remove_Logs_Discord.Form1.resources
+C:\Users\rstei\source\repos\Remove Logs Discord\Remove Logs Discord\obj\Debug\Remove_Logs_Discord.Properties.Resources.resources
+C:\Users\rstei\source\repos\Remove Logs Discord\Remove Logs Discord\obj\Debug\Remove Logs Discord.csproj.GenerateResource.cache
+C:\Users\rstei\source\repos\Remove Logs Discord\Remove Logs Discord\obj\Debug\Remove Logs Discord.csproj.CoreCompileInputs.cache
+C:\Users\rstei\source\repos\Remove Logs Discord\Remove Logs Discord\obj\Debug\Remove Logs Discord.csproj.CopyComplete
+C:\Users\rstei\source\repos\Remove Logs Discord\Remove Logs Discord\obj\Debug\Remove Logs Discord.exe
+C:\Users\rstei\source\repos\Remove Logs Discord\Remove Logs Discord\obj\Debug\Remove Logs Discord.pdb
+C:\Users\rstei\Desktop\Discord-Logs-Remover-main\Remove Logs Discord\obj\Debug\Remove Logs Discord.csproj.AssemblyReference.cache
+C:\Users\rstei\Desktop\Discord-Logs-Remover-main\Remove Logs Discord\obj\Debug\Remove_Logs_Discord.Form1.resources
+C:\Users\rstei\Desktop\Discord-Logs-Remover-main\Remove Logs Discord\obj\Debug\Remove_Logs_Discord.Properties.Resources.resources
+C:\Users\rstei\Desktop\Discord-Logs-Remover-main\Remove Logs Discord\obj\Debug\Remove Logs Discord.csproj.GenerateResource.cache
+C:\Users\rstei\Desktop\Discord-Logs-Remover-main\Remove Logs Discord\obj\Debug\Remove Logs Discord.csproj.CoreCompileInputs.cache
+C:\Users\rstei\Desktop\Discord-Logs-Remover-main\Remove Logs Discord\obj\Debug\Remove Logs Discord.exe
+C:\Users\rstei\Desktop\Discord-Logs-Remover-main\Remove Logs Discord\obj\Debug\Remove Logs Discord.pdb
+C:\Users\rstei\Desktop\Discord-Logs-Remover-main\Remove Logs Discord\bin\Debug\Remove Logs Discord.exe.config
+C:\Users\rstei\Desktop\Discord-Logs-Remover-main\Remove Logs Discord\bin\Debug\Remove Logs Discord.exe
+C:\Users\rstei\Desktop\Discord-Logs-Remover-main\Remove Logs Discord\bin\Debug\Remove Logs Discord.pdb
+C:\Users\rstei\Desktop\Discord-Logs-Remover-main\Remove Logs Discord\obj\Debug\Remove Logs Discord.csproj.CopyComplete
